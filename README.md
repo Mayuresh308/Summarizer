@@ -42,12 +42,3 @@ summarized_text = summarize_text("sample.pdf", max_words=300)
 print(summarized_text)
 ```
 
-## Contributing
-Feel free to fork the repository, make improvements, and submit a pull request.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any inquiries, reach out via GitHub or email.
-
