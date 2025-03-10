@@ -35,13 +35,6 @@ This will start a Gradio interface where you can enter the path of your PDF file
 2. Specify the desired word limit for the summary.
 3. Click the submit button to generate the summarized text.
 
-## Project Structure
-```
-AI-PDF-Summarizer/
-│── app.py             # Main application script
-│── requirements.txt   # Required dependencies
-│── README.md          # Project documentation
-```
 
 ## Example Usage
 ```python
